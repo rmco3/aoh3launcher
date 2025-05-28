@@ -1,4 +1,6 @@
-Version: 1.0 
+Version: 1.1
 Date: 28.05.2025
 
-- First Version
+- Yeni karanlık mod
+- Yeni otomatik güncelleme kontrolü
+- Bug fixs
