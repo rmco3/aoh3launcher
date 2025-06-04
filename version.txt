@@ -1,4 +1,4 @@
 {
-  "version": "1.1",
-  "download_url": "https://www.dropbox.com/scl/fi/0b9beu91anlkb1eu6g2ud/AOH3Launcher.zip?rlkey=m5nz9ter2c1jtzew5sz1vmger&st=1orl97cj&dl=1"
+  "version": "1.2",
+  "download_url": "https://www.dropbox.com/scl/fi/k7irvj5ifpgcuedjcaqe5/AOH3Launcher.zip?rlkey=zgles6iu8nclk01ve9tr68f6u&st=lnhjlldo&dl=1"
 }
