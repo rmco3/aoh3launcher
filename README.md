@@ -36,3 +36,7 @@ By the way, if you are using AOH3 Launcher and like Age of History 3 game, we re
 Thanks for using AOH3 Launcher!
 
 And by the way, we both know that "testing" is a lie. So just keep playing for free, without caring. I pretended not to say that, because I always prefer legal ways, we never, **EVER** do "free" cracks or piracy! 😊 And I'm tired of using this "😊" emoji! It's like we're being so innocent when we put it in, damn it.
+
+--------------------------------------------------
+
+Now some people might be saying to me "Jerk! You asshole! The guy is developing a game, and you're offering it for free, and even as a separate application, a launcher! Fucking idiot!" Hey calm down! If you're a crybaby saying "b-but, b-but *sniffles* this is not legal!!! 😭", listen to me for a minute! As I just said, we are definitely, 100% doing this for "testing" and for poor people who have no money! Not everyone is Elon Musk, not everyone is Ronaldo! (Definitely Messi Goat, that's another thing) okay?
