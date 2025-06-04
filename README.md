@@ -13,7 +13,7 @@ These images are taken from the current date (i.e. "4.06.2025" date of this writ
 
 By the way, if you are using AOH3 Launcher and like Age of History 3 game, we recommend you to buy it originally to support the developer of the game. If you do not have money, or you want to test the game, you can use AOH3 Launcher! The original steam page of the game is in the link below:
 
-https://store.steampowered.com/app/2772750/Age_of_History_3/
+![Steam](https://store.steampowered.com/app/2772750/Age_of_History_3/)
 
 --------------------------------------------------
 
