@@ -10,7 +10,7 @@ AOH = Age of History (the game name)
 Now think, you have 3 bananas in your hand. How many bananas do you have? 3 😉
 # What is AOH3 Launcher and what does it do?
 AOH3 Launcher allows you to download and play Age of History 3 for free, wow! (insert bad guy laugh effect here) Muhahaha. 😈 Uh so, after downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings! Yes, yes, I know right now you are saying "WOW, what a beautiful, high-quality, very good, good, not bad at all, never, never, never comes to mind when you think of bad", right? Thanks! (I guess)
-# Images from AOH3 Launcher:
+# Images from AOH3 Launcher, GTA 6 leaked images:
 ![AOH3Launcher_1 2](https://github.com/user-attachments/assets/58194643-3649-459f-861f-773a746b4b20)
 ![AOH3Launcher_1 2 settings](https://github.com/user-attachments/assets/e6957c80-db7c-45df-a222-eda562cbe495)
 ![AOH3Launcher_1 2 about](https://github.com/user-attachments/assets/7ed59cdd-df18-46d4-be5c-0fbd0cc87ede)
