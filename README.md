@@ -39,4 +39,4 @@ And by the way, we both know that "testing" is a lie. So just keep playing for f
 
 --------------------------------------------------
 
-Now some people might be saying to me "Jerk! You asshole! The guy is developing a game, and you're offering it for free, and even as a separate application, a launcher! Fucking idiot!" Hey calm down! If you're a crybaby saying "b-but, b-but *sniffles* this is not legal!!! 😭", listen to me for a minute! As I just said, we are definitely, 100% doing this for "testing" and for poor people who have no money! Not everyone is Elon Musk, not everyone is Ronaldo! (Definitely Messi Goat, that's another thing) okay?
+Now some people might be saying to me "Jerk! You asshole! The guy is developing a game, and you're offering it for free, and even as a separate application, a launcher! Fucking idiot!" Hey calm down! If you're a crybaby saying "b-but, b-but *sniffs* this is not legal!!! 😭", listen to me for a minute! As I just said, we are definitely, 100% doing this for "testing" and for poor people who have no money! Not everyone is Elon Musk, not everyone is Ronaldo! (Definitely Messi Goat, that's another thing) okay?
