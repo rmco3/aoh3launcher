@@ -7,7 +7,7 @@ AOH3 Launcher allows you to download and play Age of History 3 for free. After d
 ![AOH3Launcher_1 2 settings](https://github.com/user-attachments/assets/e6957c80-db7c-45df-a222-eda562cbe495)
 ![AOH3Launcher_1 2 about](https://github.com/user-attachments/assets/7ed59cdd-df18-46d4-be5c-0fbd0cc87ede)
 
-These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future.
+These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future. Currently only Turkish language is supported. New languages ​​may be added in the future, always keep the application updated for developments.
 
 --------------------------------------------------
 
