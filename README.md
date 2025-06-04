@@ -15,7 +15,7 @@ AOH3 Launcher allows you to download and play Age of History 3 for free, wow! (i
 ![AOH3Launcher_1 2 settings](https://github.com/user-attachments/assets/e6957c80-db7c-45df-a222-eda562cbe495)
 ![AOH3Launcher_1 2 about](https://github.com/user-attachments/assets/7ed59cdd-df18-46d4-be5c-0fbd0cc87ede)
 
-These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future. Currently only Turkish language is supported. New languages ​​may be added in the future, always keep the application updated for developments. Unless I'm lazy.
+You see, there is no Turkish in GTA 6. But we are doing this! These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future. Currently only Turkish language is supported. New languages ​​may be added in the future, always keep the application updated for developments. Unless I'm lazy.
 
 AOH3 Launcher will continue to receive new updates for a long time (I hope so), I am still planning to develop the app and release new updates. If you have an idea, or found a bug in the app, take a look at the Issues page of AOH3 Launcher. If you want, you can also use this link directly:
 
