@@ -9,6 +9,10 @@ AOH3 Launcher allows you to download and play Age of History 3 for free. After d
 
 These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future. Currently only Turkish language is supported. New languages ​​may be added in the future, always keep the application updated for developments.
 
+AOH3 Launcher will continue to receive new updates for a long time (I hope so), I am still planning to develop the app and release new updates. If you have an idea, or found a bug in the app, take a look at the Issues page of AOH3 Launcher. If you want, you can also use this link directly:
+
+[AOH3 Launcher Issues](https://github.com/rmco3/aoh3launcher/issues)
+
 --------------------------------------------------
 
 By the way, if you are using AOH3 Launcher and like Age of History 3 game, we recommend you to buy it originally to support the developer of the game. If you do not have money, or you want to test the game, you can use AOH3 Launcher! The original download pages of the game is in the link below:
