@@ -2,7 +2,9 @@
 A simple and useful Age of History 3 launcher
 # What does AOH3 Launcher mean?
 AOH3 Launcher = Age of History 3 Launcher
+
 AOH = Age of History (the game name)
+
 3 = 3 (what do you expect?)
 # What is AOH3 Launcher and what does it do?
 AOH3 Launcher allows you to download and play Age of History 3 for free. After downloading the game, you can play it directly without downloading it again or experiencing any problems. It increases the performance you will get in the game with some settings.
