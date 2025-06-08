@@ -9,7 +9,7 @@ AOH = Age of History (the game name)
 
 Now think, you have 3 bananas in your hand. How many bananas do you have? 3 😉
 # What is AOH3 Launcher and what does it do?
-AOH3 Launcher allows you to download and play Age of History 3 for free, wow! (insert bad guy laugh effect here) Muhahaha. 😈 Uh so, after downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings! Yes, yes, I know right now you are saying "WOW, what a beautiful, high-quality, very good, good, not bad at all, never, never, never comes to mind when you think of bad", right? Thanks! (I guess)
+AOH3 Launcher allows you to download and play Age of History 3 for free, wow! Uh so, after downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings! Yes, yes, I know right now you are saying "WOW, what a beautiful, high-quality, very good, good, not bad at all, never, never, never comes to mind when you think of bad", right? Thanks! (I guess)
 # Images from AOH3 Launcher, GTA 6 leaked images:
 ![AOH3Launcher_1 2](https://github.com/user-attachments/assets/58194643-3649-459f-861f-773a746b4b20)
 ![AOH3Launcher_1 2 settings](https://github.com/user-attachments/assets/e6957c80-db7c-45df-a222-eda562cbe495)
@@ -36,7 +36,3 @@ By the way, if you are using AOH3 Launcher and like Age of History 3 game, we re
 Thanks for using AOH3 Launcher!
 
 And by the way, we both know that "testing" is a lie. So just keep playing for free, without caring. I pretended not to say that, because I always prefer legal ways, we never, **EVER** do "free" cracks or piracy! 😊 And I'm tired of using this "😊" emoji! It's like we're being so innocent when we put it in, damn it.
-
---------------------------------------------------
-
-Now some people might be saying to me "Jerk! You asshole! The guy is developing a game, and you're offering it for free, and even as a separate application, a launcher! Fucking idiot!" Hey calm down! If you're a crybaby saying "b-but, b-but *sniffs* this is not legal!!! 😭", listen to me for a minute! As I just said, we are definitely, 100% doing this for "testing" and for poor people who have no money! Not everyone is Elon Musk, not everyone is Ronaldo! (Definitely Messi Goat, that's another thing) okay? I'm not Robin Hood, but it's not a crime to offer something that costs money to others for free! If you really want it, go buy it, the links are above. Others make Minecraft launchers, you don't say anything to them. "Heheh, let me go play Minecraft for free on TLauncher!" It's okay, but when we (meaning I) make a launcher for another game, there's a problem, huh? This is unfair!
