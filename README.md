@@ -11,11 +11,11 @@ Now think, you have 3 bananas in your hand. How many bananas do you have? 3 😉
 # What is AOH3 Launcher and what does it do?
 AOH3 Launcher allows you to download and play Age of History 3 for free, wow! Uh so, after downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings! Yes, yes, I know right now you are saying "WOW, what a beautiful, high-quality, very good, good, not bad at all, never, never, never comes to mind when you think of bad", right? Thanks! (I guess)
 # Images from AOH3 Launcher, GTA 6 leaked images:
-![AOH3Launcher_1 2](https://github.com/user-attachments/assets/58194643-3649-459f-861f-773a746b4b20)
-![AOH3Launcher_1 2 settings](https://github.com/user-attachments/assets/e6957c80-db7c-45df-a222-eda562cbe495)
-![AOH3Launcher_1 2 about](https://github.com/user-attachments/assets/7ed59cdd-df18-46d4-be5c-0fbd0cc87ede)
+![AOH3Launcher_main](https://github.com/user-attachments/assets/04c15318-678e-424b-8d1b-8be91d350193)
+![AOH3Launcher_settings](https://github.com/user-attachments/assets/9e6794f1-aaf2-4d5d-90db-9c4e5d803bdf)
+![AOH3Launcher_about](https://github.com/user-attachments/assets/716d5624-6ce5-405c-b1ed-b0f0c6d0e527)
 
-You see, there is no Turkish in GTA 6. But we are doing this! These images are taken from the current date (i.e. "4.06.2025" date of this writing) AOH3 Launcher 1.2. It may change in the future. Currently only Turkish language is supported. New languages ​​may be added in the future, always keep the application updated for developments. Unless I'm lazy.
+These images are taken from the current date (i.e. "8.06.2025" date of this writing) AOH3 Launcher 1.3. It may change in the future. Currently only English language is supported. New languages ​​may be added in the future, always keep the application updated for developments. Unless I'm lazy.
 
 AOH3 Launcher will continue to receive new updates for a long time (I hope so), I am still planning to develop the app and release new updates. If you have an idea, or found a bug in the app, take a look at the Issues page of AOH3 Launcher. If you want, you can also use this link directly:
 
