@@ -1,5 +1,5 @@
-Version: 1.2
-Date: 4.06.2025
+Version: 1.3
+Date: 8.06.2025
 
+- New Cancel download/Download speed increase
 - UI changes/fixes
-- Language corrections
