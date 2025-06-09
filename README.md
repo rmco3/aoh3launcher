@@ -25,11 +25,11 @@ AOH3 Launcher will continue to receive new updates for a long time (I hope so), 
 
 By the way, if you are using AOH3 Launcher and like Age of History 3 game, we recommend you to buy it originally to support the developer of the game. If you do not have money, or you want to test the game, you can use AOH3 Launcher! 😊 The original download pages of the game is in the link below:
 
-[Steam](https://store.steampowered.com/app/2772750/Age_of_History_3/)
+[Steam](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[Google Play](https://play.google.com/store/apps/details?id=age.of.history3.lukasz.jakowski)
+[Google Play](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[App Store](https://apps.apple.com/us/app/age-of-history-3/id6686394372)
+[App Store](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 --------------------------------------------------
 
