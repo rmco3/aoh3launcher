@@ -23,7 +23,7 @@ AOH3 Launcher will continue to receive new updates for a long time (I hope so), 
 
 --------------------------------------------------
 
-By the way, if you are using AOH3 Launcher and like Age of History 3 game, we recommend you to buy it originally to support the developer of the game. If you do not have money, or you want to test the game, you can use AOH3 Launcher! 😊 The original download pages of the game is in the link below:
+By the way, if you are using AOH3 Launcher and like Age of History 3 game, we recommend you to buy it originally to support the developer of the game. If you do not have money, or you want to test the game, you can use AOH3 Launcher! 😇😊 The original download pages of the game is in the link below:
 
 [Steam](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
