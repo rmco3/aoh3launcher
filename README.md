@@ -1,7 +1,7 @@
 # aoh3launcher
 A simple and useful Age of History 3 launcher
 # What is AOH3 Launcher and what does it do?
-AOH3 Launcher allows you to download and play Age of History 3 for free, wow! After downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings!
+AOH3 Launcher allows you to download and play Age of History 3 for free, wow! After downloading the game, you can play it directly without downloading it again or experiencing any problems! 😱 It increases the performance you will get in the game with some settings! (very little, but still cool...)
 # Images from AOH3 Launcher, GTA 6 leaked images:
 ![AOH3Launcher_main](https://github.com/user-attachments/assets/04c15318-678e-424b-8d1b-8be91d350193)
 ![AOH3Launcher_settings](https://github.com/user-attachments/assets/9e6794f1-aaf2-4d5d-90db-9c4e5d803bdf)
