@@ -1101,7 +1101,7 @@ namespace AOH3Launcher
                 {
                     radioButton.ForeColor = SystemColors.ControlText;
                 }
-            }
+            }//
         }
     }
 }//
