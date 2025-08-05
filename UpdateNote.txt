@@ -1,0 +1,5 @@
+Version: 1.4
+Date: 9.06.2025
+
+- UI changes
+- Bug fixs
